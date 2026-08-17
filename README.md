@@ -40,3 +40,9 @@ Bu uygulama kartın yalnızca herkese açık donanımsal metadatasını (Public 
 ## 📱 Android Manifest Yapılandırması
 
 Uygulamanın çalışabilmesi için `android/app/src/main/AndroidManifest.xml` dosyasında donanım izinleri ve intent filtreleri ayarlanmıştır.
+
+
+<img width="955" height="2048" alt="WhatsApp Image 2026-08-17 at 13 23 38 (1)" src="https://github.com/user-attachments/assets/441bb1fc-a522-43c4-b549-a6ad61d6aef2" />
+<img width="955" height="2048" alt="WhatsApp Image 2026-08-17 at 13 23 38 (2)" src="https://github.com/user-attachments/assets/ded2f7fe-f1be-4d8d-a605-d9fe45787a7f" />
+<img width="955" height="2048" alt="WhatsApp Image 2026-08-17 at 13 23 38 (3)" src="https://github.com/user-attachments/assets/66cfc93d-ceec-4d2d-8b48-6d49e5960be7" />
+
